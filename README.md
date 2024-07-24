@@ -23,4 +23,4 @@ O Pix se consolidou como o meio de pagamento mais popular do Brasil em 2023 com 
 
 - Geração de Payload Pix: cria um payload no formato QRCP-S, conforme especificações do sistema Pix.
 - Geração de QR Code: cria um QR Code a partir do payload gerado e salva a imagem em um diretório especificado.
-- Geração do Pix Copia e Cola: cria a linha digitável a partir do payload gerado e salva a imagem em um diretório especificado.
+- Geração do Pix Copia e Cola: cria a linha digitável a partir do payload gerado e salva o pix Copia e Cola na saida.
