@@ -1,0 +1,5 @@
+crcmode
+qrcode
+pillow
+pip
+setuptools
