@@ -70,7 +70,7 @@ class Payload(): # criando objeto payload
 
 
 if __name__ == '__main__':
-    valor = 'DIgite o valor ou 0 para não informar o valor'
+    valor = '0'
 
     Payload('Nome do recebedor', 'Chave PIX', f'{valor}.00',
             'Cidade', 'TesteQRPIX').gerarPayload()
